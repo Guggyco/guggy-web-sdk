@@ -1,4 +1,3 @@
-# guggy-web-sdk
-Guggy Web SDK
+# Guggy JS SDK
 
-See https://medium.com/guggy-blog/getting-started-with-guggy-web-sdk-e12e4fe92028
+See docs at http://docs.guggy.com/js-sdk/
