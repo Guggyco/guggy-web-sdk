@@ -1,0 +1,11 @@
+{
+  "name": "@guggy/guggy-js-sdk",
+  "version": "1.3",
+  "description": "Guggy JS SDK",
+  "main": "guggy-sdk-min.js",
+  "dependencies": {
+    "xhr2" : "1.0.3"
+  },
+  "author": "Shahar Yakir <shahar@guggy.com>",
+  "license": "ISC"
+}
