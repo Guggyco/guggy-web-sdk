@@ -1,6 +1,6 @@
 {
   "name": "@guggy/guggy-js-sdk",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Guggy JS SDK",
   "main": "guggy-sdk.min.js",
   "dependencies": {
